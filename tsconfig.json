@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+
+    "forceConsistentCasingInFileNames": true,    
+    "module": "ESNext",
+
+    "skipLibCheck": true,
+    "outDir": "./dist/Scripts",
+    "strict": true,
+      "lib": [
+          "DOM",
+          "ES6",
+          "WebWorker.ImportScripts"
+      ],
+      "esModuleInterop": true
+  }
+}
+
+
